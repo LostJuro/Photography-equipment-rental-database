@@ -3,6 +3,7 @@
 ## Project Overview
 This project is a **Photography Equipment Rental Database**, designed to manage the inventory, rentals, transactions, and maintenance of photography equipment. Users can rent equipment, and the system tracks customer details, rental history, and maintenance records.
 
+<<<<<<< HEAD
 The database is implemented using **SQL** and was developed and tested in **DataGrip**.
 
 ---
@@ -85,3 +86,6 @@ The project includes **21 SQL queries** demonstrating:
 ## Summary
 
 This project provides a **comprehensive, practical database solution** for a photography rental business, combining inventory management, customer tracking, transaction handling, and equipment maintenance monitoring.
+=======
+
+>>>>>>> ae368efe263856b69101b6e957e3e008f9fd1249
